@@ -10,9 +10,9 @@ and delete tasks.
 
 Here is a list of possible commands:
 
-Add - Add a task to your todo list
-View - View all todo tasks
-Mark - Mark a task as completed on your todo list
-Delete - Delete todo list
-Clear - Clear completed tasks off of todo list
-Quit - Exit the program
+- Add - Add a task to your todo list
+- View - View all todo tasks
+- Mark - Mark a task as completed on your todo list
+- Delete - Delete todo list
+- Clear - Clear completed tasks off of todo list
+- Quit - Exit the program
